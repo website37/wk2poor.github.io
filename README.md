@@ -20,7 +20,7 @@ Some Projects Ive done is
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wk2poor&show_icons=true&theme=highcontrast)
 
 
-
+![https://raw.githubusercontent.com/wk2poor/wk2poor/main/wk2poor.gif](https://raw.githubusercontent.com/wk2poor/wk2poor/main/wk2poor.gif)
 
 
 
