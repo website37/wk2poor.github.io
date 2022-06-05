@@ -1,5 +1,7 @@
 ## wk2poor
 
+## 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&color=E43838&center=true&vCenter=true&lines=Welcome)](https://git.io/typing-svg)
 Hi welcome to my website!
 
 Some Projects Ive done is 
