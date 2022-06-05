@@ -7,3 +7,5 @@ Some Projects Ive done is
 - Neoclone
 - Gsploit
 - ShutShareBot ( OUTDATED ) 
+- ButterCMD
+- DuckOne2 Activator
